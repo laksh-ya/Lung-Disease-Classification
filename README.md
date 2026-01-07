@@ -120,7 +120,7 @@ streamlit run app.py
 ## Related Repositories
 
 ### Research & Experiments
-Curious about how we got here? Check out the **[Lung Disease Classification Experiments](https://github.com/YOUR_USERNAME/lung-disease-experiments)** repository!
+Curious about how we got here? Check out the **[Lung Disease Classification Experiments](https://github.com/laksh-ya/Lung-X-Ray-Project)** repository!
 
 - **Contains:** All experimental notebooks comparing ResNet, EfficientNet, DenseNet, Custom CNN/ANN
 - **Results:** Comprehensive performance analysis across 7+ model architectures
