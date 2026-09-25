@@ -132,5 +132,3 @@ Curious about how we got here? Check out the **[Lung Disease Classification Expe
 - **Dataset:** [Kaggle](https://www.kaggle.com/datasets/fatemehmehrparvar/lung-disease/)
 
 ---
-
-*Democratizing medical image analysis through accessible AI applications* 🏥🤖
